@@ -158,7 +158,7 @@
 
 /*start slider*/
 .hncontainer {
-    background-image: url('../img/Mask\ group.png');
+    background-image: url('../img/Mask.webp');
     background-color: #1A242F;
     background-size:cover;
     background-repeat: no-repeat;
@@ -318,7 +318,7 @@ img {
     width: 188px;
     height: 572px;
     overflow: hidden;
-    background-image: url('../img/arrow.png');
+    background-image: url('../img/arrow.webp');
     background-size:cover;
     background-repeat: no-repeat;
     position: absolute;
@@ -490,7 +490,7 @@ img {
 .mklog{
     width: 95px;
     height: 20px;
-    background-image: url('../img/logo.png');
+    background-image: url('../img/logo.webp');
     background-size:contain;
     background-repeat: no-repeat;
     margin-bottom: 25px;
@@ -576,7 +576,7 @@ font-size: 14px;
 .square{
     width: 44px;
     height: 100px;
-    background-image: url('../img/square.png');
+    background-image: url('../img/square.webp');
     position: absolute;
     background-size:contain;
     background-repeat: no-repeat;
@@ -589,7 +589,7 @@ font-size: 14px;
 .curve{
     width: 204px;
     height: 239px;
-    background-image: url(../img/curve.png);
+    background-image: url('../img/curve.webp');
     position: absolute;
     background-size: cover;
     background-repeat: no-repeat;
@@ -602,7 +602,7 @@ font-size: 14px;
 .squares{
     width: 75px;
     height: 300px;
-    background-image: url('../img/diamond.png');
+    background-image: url('../img/diamond.webp');
     position: absolute;
     background-size:contain;
     background-repeat: no-repeat;
